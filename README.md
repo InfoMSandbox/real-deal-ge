@@ -31,7 +31,7 @@
 - [Git Graph Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
-#### GitHub Documentation and Help
+#### GitHub Documentation and Help--
 
 - [GitHub Webcasts](https://resources.github.com/webcasts/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
